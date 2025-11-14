@@ -71,10 +71,10 @@
 <h3 align="center" style="color: #00FFFF;">//&nbsp;&nbsp;G R I D&nbsp;&nbsp;&nbsp;A C T I V I T Y&nbsp;&nbsp;//</h3>
 <p align="center">
 <!--
-I replaced your local snake SVG with a dynamically generated one.
-This one pulls your contributions and applies a dark background with neon cyan and pink/purple dots.
+This is the dynamic snake SVG. It pulls your contributions
+and applies a dark background with neon cyan and pink/purple dots.
 -->
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg%3Fuser%3DSmratJay%26color_snake%3D%2300FFFF%26color_dots%3D%23a200ff,%23F72585,%234CC9F0,%233A0CA3" alt="Contribution Snake" />
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg%3Fuser%3DSmratJay%26color_snake%3D%252300FFFF%26color_dots%3D%2523a200ff,%2523F72585,%25234CC9F0,%25233A0CA3" alt="Contribution Snake" />
 </p>
 
 <!-- Footer Banner -->
@@ -84,6 +84,10 @@ This one pulls your contributions and applies a dark background with neon cyan a
 </p>
 
 </div>
+
+<!--
+VVV YOUR ORIGINAL README CONTENT IS STILL HERE VVV
+-->
 
 <!--
 SmratJay/SmratJay is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
