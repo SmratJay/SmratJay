@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/SmratJay" target="_blank">
+  <a href="https://x.com/popexenon" target="_blank">
     <img src="https://img.shields.io/twitter/follow/SmratJay?logo=twitter&style=for-the-badge" alt="SmratJay" />
   </a>
 </p>
