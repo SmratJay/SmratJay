@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://x.com/popexenon" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/SmratJay?logo=twitter&style=for-the-badge" alt="SmratJay" />
+    <img src="https://img.shields.io/twitter/follow/popexenon?logo=x&style=for-the-badge" alt="popexenon" />
   </a>
 </p>
 
@@ -22,6 +22,17 @@
 
 ---
 
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Elixir-4B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir" />
+  <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+---
+
 ## GitHub Stats
 
 <table>
@@ -30,7 +41,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=SmratJay&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="SmratJay's GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmratJay&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmratJay&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
     </td>
   </tr>
 </table>
@@ -52,8 +63,10 @@
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmratJay&theme=radical&hide_border=true" alt="SmratJay's activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmratJay&theme=radical&hide_border=true&area=true&custom_title=SmratJay's%20Contribution%20Graph&v=2" alt="SmratJay's activity graph" />
 </p>
+
+> **Note:** Third-party activity graphs are cached by GitHub's image proxy and the service itself. New commits can take a few hours to appear. If it stays stale, swap the URL to `https://github-activity-graph.herokuapp.com/graph?username=SmratJay&theme=radical` or remove the graph and rely on the built-in GitHub contributions graph on your profile.
 
 ---
 
@@ -61,7 +74,7 @@
 
 <p align="center">
   <a href="https://x.com/popexenon" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://github.com/SmratJay" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
